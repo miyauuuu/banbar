@@ -1,0 +1,7 @@
+{
+    "title": "Banbar",
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": ["hide-published-with"]
+}
