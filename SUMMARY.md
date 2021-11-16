@@ -2,7 +2,7 @@
 
 # Summary
 
-* [スコッチ(シングルモルト)](README.md)
+* [スコッチ(シングルモルト)](index.md)
 * [スコッチ(ブレンデッド)](scotch_brended.md)
 * [ジャパニーズ](japanese.md)
 * [アメリカン](american.md)
